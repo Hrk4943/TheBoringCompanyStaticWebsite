@@ -1,0 +1,194 @@
+.main{
+    margin: 0px;
+    padding: 0px;
+}
+.firstimg{
+    height: 800px;
+    width: 100%;
+    background-image: url(img1.jpg);
+    background-size: cover;
+}
+.logo1{
+    height: 60px;
+    width: 120px;
+    margin-left: 100px;
+    margin-top: 25px;
+}
+.firstlist{
+    display: flex;
+    margin-left: 235px;
+    margin-top: -40px;
+    list-style: none;
+}
+.li{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: small;
+    margin-left: 20px;
+}
+.secondlist{
+    list-style: none;
+    display: flex;
+    float: right;
+}
+.li2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: small;
+    margin-top: -40px;
+    margin-right: 20px;
+    padding-right: 60px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+border-bottom: 1px solid green;
+}
+.para1{
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    margin-top: 607px;
+    margin-left: 130px;
+    font-size: large;
+    font-weight: bold;
+}
+.para2{
+    font-family: sans-serif;
+    color: white;
+    margin-top: 0px;
+    margin-left: 130px;
+    font-size: large;
+    font-weight: bold;
+}
+.secondimg{
+    margin-top: 65px;
+}
+.img2{
+width: 100%;
+height: 710px;
+}
+.head1{
+    color:white;
+    margin-bottom: 40px;
+    margin-top: -440px;
+    margin-left: 127px;
+    font-family: sans-serif;
+    font-size: xx-large;
+}
+.para3{
+    font-family: sans-serif;
+    color: white;
+    margin-top: 0px;
+    margin-left: 130px;
+    font-size: large;
+    line-height: 0.5rem;
+}
+.paragraph2{
+    margin-top: 60px;
+}
+.para4{
+    font-family: sans-serif;
+    color: white;
+    margin-left: 130px;
+    font-size: large;
+    line-height: 0.5rem;
+}
+.button1{
+    width: 150px;
+    height: 30px;
+    text-decoration: none;
+    color: white;
+    background: none;
+    margin-top: 130px;
+    border-radius: 15px;
+    margin-left: 130px;
+    margin-top: 30px;
+    border-width: 2px;
+    height: 37px;
+    width: 190px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-color: white;
+}
+.button1:hover{
+    color: grey;
+    border-color: green;
+}
+.img3{
+    margin-top: 90px;
+    height: 700px;
+    width: 100%;
+}
+.img4{
+    margin-top: 90px;
+    height: 700px;
+    width: 100%;
+
+}
+.img5{
+    margin-top: 120px;
+    height: 700px;
+    width: 100%;
+}
+.bottom{
+    width: 100%;
+    height: 400px;
+    background: black;
+    margin-top: 200px;
+    text-align: center;
+}
+.button2{
+    width: 150px;
+    height: 30px;
+    text-decoration: none;
+    color: white;
+    background: none;
+    margin-top: 130px;
+    border-radius: 15px;
+    margin-top: 100px;
+    cursor: pointer;
+    border-width: 2px;
+    height: 37px;
+    width: 190px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-color: white;
+}
+.button2:hover{
+    color: grey;
+    border-color: green;
+}
+.hrr{
+    width: 80%;
+    margin-top: 65px;
+    color: rgba(255,255,255,.2);
+    background-color: rgba(255,255,255,.2);
+    background: linear-gradient(217deg,rgba(255,0,0,.8),rgba(255,0,0,0) 70.71%),linear-gradient(127deg,rgba(0,255,0,.8),rgba(0,255,0,0) 70.71%),linear-gradient(336deg,rgba(0,0,255,.8),rgba(0,0,255,0) 70.71%);
+}
+.bottomlist{
+    display: flex;
+    margin-left: 532px;
+    margin-top: 55px;
+    list-style: none;
+}
+.li3{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: small;
+    margin-left: 20px;
+}
+.ahref:hover{
+    color: grey;
+}
+.para5{
+    font-family: sans-serif;
+    color: white;
+    margin-top: 50px;
+    margin-left: 0px;
+    font-size: large;
+    line-height: 0.5rem;
+} 
+
